@@ -14,6 +14,6 @@ A Github repository to accompany Ahmed, Hudgins, Cuthbert et al. "Managing biolo
 
 3. *03-Fig3.m* - this script creates the theoretical results for Figure 3.
 
-4. *04-.\* - these two folders have 4 MATLAB scripts each, one for each genus, that fit nonlinear models to the data contained in 1. *cumulative_logistic.csv* and 2. *cumulative_mgmt_logistic.csv* in order to parameterize the logistic curves. 
+4. *04-.\** - these two folders have 4 MATLAB scripts each, one for each genus, that fit nonlinear models to the data contained in 1. *cumulative_logistic.csv* and 2. *cumulative_mgmt_logistic.csv* in order to parameterize the logistic curves. 
 
 6. *05-Fig6.m* - this script calculates the cost of inaction for the *Aedes* example.
