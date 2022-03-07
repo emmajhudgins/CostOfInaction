@@ -8,7 +8,7 @@ A Github repository to accompany Ahmed, Hudgins, Cuthbert et al. "Managing biolo
 ##### the first script was written in R version 4.0.3, while the remainder use MATLAB, and require the following routine: https://au.mathworks.com/matlabcentral/fileexchange/13188-shade-area-between-two-curves
 
 
-1. *01-Data_cleaning_script.R* - this script generates the input data required to fit models (*cumulative_logistic.csv* for damage costs and *cumulative_mgmt_logistic.csv* for management costs), based on the invacost R package and *sTwist_database.csv* (see Data accessibility statement in the main manuscript). It also produces the more generic datasheets based on initial invacost extraction *(Damagecosts_logistic.csv and Managementcosts_logistic.csv)*, and those linking sTwist and invacost *(filled_logistic.csv, filled_mgmt_logistic.csv)*. Within the script, the number of independent cost references and management lag times for each genus are derived.  
+1. *01-Data_cleaning_script.R* - this script generates the input data required to fit models (*cumulative_logistic.csv* for damage costs and *cumulative_mgmt_logistic.csv* for management costs), based on the invacost R package and (see Data accessibility statement in the main manuscript). It also produces the more generic datasheets based on initial invacost extraction *(Damagecosts_logistic.csv and Managementcosts_logistic.csv)*. Within the script, the number of independent cost references and management lag times for each genus are derived.  
 
 2. *02-Fig2.m* - this script creates the theoretical results for Figure 2.
 
