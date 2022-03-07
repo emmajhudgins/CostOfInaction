@@ -1,0 +1,632 @@
+"Genus","Species","Impact_year","Type_of_cost_merged","Management_type","code","Cost_ID","Cost.USD","First_invacost","First_manage","First_manage_invacost"
+"Aedes","Aedes aegypti",2006,"Damage",NA,"MYS","2232",134654366.328205,1922,2002,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"PRY","2321",2522877.38073318,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"PER","2324",132916340.065661,1922,1995,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"MYS","2231",149507371.21207,1922,2002,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"MMR","2235",15231780.1955654,1922,NA,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"USA","2326",20573081.5494169,1922,1977,1977
+"Aedes","Aedes aegypti",1998,"Damage",NA,"VEN","NE3045",103399.387432647,1922,2007,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"PHL","2237",85049016.4014476,1922,2013,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"THA","2395",127879387.587106,1922,1981,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"VEN","NE3050",24642.4963093999,1922,2007,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"SGP","2238",41736084.3857785,1922,1977,1977
+"Aedes","Aedes aegypti",2016,"Damage",NA,"ARG","NE3240",56110,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"TLS","2248",381951.934995181,1922,NA,1977
+"Aedes","Aedes aegypti",2016,"Damage",NA,"ARG","NE3239",77260,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"MYS","2232",134654366.328205,1922,2002,1977
+"Aedes","Aedes aegypti",1999,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"URY","2330",1486796.52946905,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"MYS","2232",134654366.328205,1922,2002,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"SGP","2239",70592714.376933,1922,1977,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"THA","2244",151755602.358116,1922,1981,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"THA","2241",1290.95912598685,1922,1981,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"THA","2246",305170126.178464,1922,1981,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"PHL","2237",85049016.4014476,1922,2013,1977
+"Aedes","Aedes aegypti",1997,"Damage",NA,"VEN","NE3051",100746.057582806,1922,2007,1977
+"Aedes","Aedes aegypti",1998,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",1998,"Damage",NA,"THA","2241",1290.95912598685,1922,1981,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"USA","2326",20573081.5494169,1922,1977,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"PER","2324",132916340.065661,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"HND","2309",19972885.8812854,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"USA","2409",20786606.0076361,1922,1977,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"SGP","2238",41736084.3857785,1922,1977,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"SGP","2238",41736084.3857785,1922,1977,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"SUR","2328",1461965.26330133,1922,NA,1977
+"Aedes","Aedes aegypti",1999,"Damage",NA,"THA","2241",1290.95912598685,1922,1981,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",1997,"Damage",NA,"VEN","NE3044",6430216.35398715,1922,2007,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"MYS","2231",149507371.21207,1922,2002,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"BLZ","2275",814439.261086367,1922,1995,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"BOL","2277",43592592.6645649,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"IDN","2226",340035077.600131,1922,2011,1977
+"Aedes","Aedes aegypti",1998,"Damage",NA,"VEN","NE3052",147762.335360539,1922,2007,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"LAO","2230",5358901.39099299,1922,NA,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"PRY","2321",2522877.38073318,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"PRY","2321",2522877.38073318,1922,1995,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"ECU","2303",65747113.8342653,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"MYS","2231",149507371.21207,1922,2002,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"SUR","2328",1461965.26330133,1922,NA,1977
+"Aedes","Aedes aegypti/Aedes albopictus",1996,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti",2016,"Damage",NA,"ARG","NE3238",212277,1922,1995,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"URY","2330",1486796.52946905,1922,1995,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"BRA","2380",386133.56,1922,1984,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"CAN","2285",693753.521315354,1922,NA,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"MMR","2235",15231780.1955654,1922,NA,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"FRA","2265",2218846.14329975,1922,2008,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"VEN","NE3057",39056.0341492867,1922,2007,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1954,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"BRN","2215",669205.043132053,1922,NA,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"BTN","2214",310401.710257792,1922,NA,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1957,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1958,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1959,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1960,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"PHL","2237",85049016.4014476,1922,2013,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1962,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"MYS","2231",149507371.21207,1922,2002,1977
+"Aedes","Aedes aegypti",2015,"Damage",NA,"PRY","NE3040",2975643.17066436,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"SGP","2239",70592714.376933,1922,1977,1977
+"Aedes","Aedes aegypti",2016,"Damage",NA,"ARG","NE3235",1033320,1922,1995,1977
+"Aedes","Aedes aegypti",2016,"Damage",NA,"ARG","NE3236",4800178,1922,1995,1977
+"Aedes","Aedes aegypti",2016,"Damage",NA,"ARG","NE3237",3685500,1922,1995,1977
+"Aedes","Aedes aegypti",1999,"Damage",NA,"VEN","NE3053",253594.076972986,1922,2007,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"MYS","2232",134654366.328205,1922,2002,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"PER","2324",132916340.065661,1922,1995,1977
+"Aedes","Aedes aegypti",2016,"Damage",NA,"ARG","NE3241",12400,1922,1995,1977
+"Aedes","Aedes aegypti",2016,"Damage",NA,"ARG","NE3242",6170,1922,1995,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1961,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"CHL","2289",7067815.98882335,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"USA","2409",20786606.0076361,1922,1977,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"VEN","NE3049",137843.397987028,1922,2007,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"VEN","NE3056",242244.267594951,1922,2007,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"GTM","2307",38016876.2719143,1922,1995,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"PER","2324",132916340.065661,1922,1995,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"THA","2246",305170126.178464,1922,1981,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"VNM","2249",24677462.0700881,1922,1998,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"TLS","2248",381951.934995181,1922,NA,1977
+"Aedes","Aedes aegypti",2016,"Damage",NA,"ARG","NE3243",3530,1922,1995,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"BOL","2277",43592592.6645649,1922,1995,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1955,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1956,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"CAN","2285",693753.521315354,1922,NA,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"CAN","2285",693753.521315354,1922,NA,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"CHL","2289",7067815.98882335,1922,1995,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"ECU","2303",65747113.8342653,1922,1995,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"FRA","2265",2218846.14329975,1922,2008,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1963,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1964,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1966,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"MMR","2235",15231780.1955654,1922,NA,1977
+"Aedes","Aedes aegypti",1999,"Damage",NA,"VEN","NE3046",165939.961444795,1922,2007,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"PER","2324",132916340.065661,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",1997,"Damage",NA,"VEN","2262",234164.885941053,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",1998,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",1998,"Damage",NA,"VEN","2262",234164.885941053,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",1999,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",1999,"Damage",NA,"VEN","2262",234164.885941053,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"ARG","2270",17208457.6961482,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"BRA","2284",956987710.380959,1922,1984,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"COL","2294",208002021.764501,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"CRI","2296",12400317.5618373,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"TLS","2248",381951.934995181,1922,NA,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"MEX","2311",321737991.353806,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"NIC","2314",15750763.015023,1922,1995,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"VEN","NE3055",325922.294173571,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"PAN","2319",9651580.71690245,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"SLV","2305",17638005.5828938,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"USA","2331",6355211.07368289,1922,1977,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"BLZ","2275",814439.261086367,1922,1995,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1951,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1952,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1953,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"CAN","2285",693753.521315354,1922,NA,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"BRN","2215",669205.043132053,1922,NA,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"BTN","2214",310401.710257792,1922,NA,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"ECU","2303",65747113.8342653,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"FRA","2265",2218846.14329975,1922,2008,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"GTM","2307",38016876.2719143,1922,1995,1977
+"Aedes","Aedes aegypti",2014,"Damage",NA,"FRA","2263",6055373.43423932,1922,2008,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"KHM","2216",17403539.9581826,1922,2001,1977
+"Aedes","Aedes aegypti",2014,"Damage",NA,"PHL","2368",2348992.53008418,1922,2013,1977
+"Aedes","Aedes aegypti",2015,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1965,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"IND","2224",567406043.43654,1922,2003,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"IND","2363",571547693.388632,1922,2003,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"KHM","2216",17403539.9581826,1922,2001,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"KHM","2396",3684700.21688287,1922,2001,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"KHM","2397",4569258.89248572,1922,2001,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"LAO","2230",5358901.39099299,1922,NA,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"MMR","2235",15231780.1955654,1922,NA,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"MYS","2232",134654366.328205,1922,2002,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"PHL","2236",71358810.7604102,1922,2013,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"PHL","2237",85049016.4014476,1922,2013,1977
+"Aedes","Aedes aegypti",2016,"Damage",NA,"USA","2364",262043559.095968,1922,1977,1977
+"Aedes","Aedes aegypti",1977,"Damage",NA,"USA","2327",29413492.60385,1922,1977,1977
+"Aedes","Aedes aegypti",1977,"Damage",NA,"USA","2408",9301939.36477387,1922,1977,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"VNM","2249",24677462.0700881,1922,1998,1977
+"Aedes","Aedes aegypti",1994,"Damage",NA,"THA","2245",12772512.1526958,1922,1981,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"VEN","2262",234164.885941053,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"VEN","2333",127897460.612803,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"COL","2294",208002021.764501,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"BLZ","2275",814439.261086367,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"BOL","2277",43592592.6645649,1922,1995,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"BRA","2380",386133.56,1922,1984,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"BRN","2215",669205.043132053,1922,NA,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"BTN","2214",310401.710257792,1922,NA,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"CAN","2285",693753.521315354,1922,NA,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"CHL","2289",7067815.98882335,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"ECU","2303",65747113.8342653,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"FRA","2265",2218846.14329975,1922,2008,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"GTM","2307",38016876.2719143,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"IDN","2226",340035077.600131,1922,2011,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"IND","2220",87404622.3516994,1922,2003,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"IND","2221",4774381.86400333,1922,2003,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"KHM","2216",17403539.9581826,1922,2001,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"LAO","2230",5358901.39099299,1922,NA,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"IND","2222",13939033.1054862,1922,2003,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"PER","2324",132916340.065661,1922,1995,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"IND","2363",571547693.388632,1922,2003,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"KHM","2216",17403539.9581826,1922,2001,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"KHM","2396",3684700.21688287,1922,2001,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"KHM","2397",4569258.89248572,1922,2001,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"LAO","2230",5358901.39099299,1922,NA,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"VEN","2333",127897460.612803,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2008,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2009,"Damage",NA,"ARG","2271",8569136.67572497,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2000,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2010,"Damage",NA,"BRA","2279",236158.696042981,1922,1984,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"ARG","2270",17208457.6961482,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"BRA","2380",386133.56,1922,1984,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"BLZ","2275",814439.261086367,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2011,"Damage",NA,"COL","2415",18416183.4495994,1922,1995,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"BRA","2380",386133.56,1922,1984,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"BRN","2215",669205.043132053,1922,NA,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"CHL","2289",7067815.98882335,1922,1995,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"ECU","2303",65747113.8342653,1922,1995,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"FRA","2265",2218846.14329975,1922,2008,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"GTM","2307",38016876.2719143,1922,1995,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"IDN","2226",340035077.600131,1922,2011,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"IND","2221",4774381.86400333,1922,2003,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"KHM","2216",17403539.9581826,1922,2001,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"KHM","2218",428562.428134414,1922,2001,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"LAO","2230",5358901.39099299,1922,NA,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"MMR","2235",15231780.1955654,1922,NA,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"MYS","2232",134654366.328205,1922,2002,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"PHL","2237",85049016.4014476,1922,2013,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"PRY","2321",2522877.38073318,1922,1995,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"SGP","2238",41736084.3857785,1922,1977,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"SGP","2239",70592714.376933,1922,1977,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"SUR","2328",1461965.26330133,1922,NA,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"THA","2241",1290.95912598685,1922,1981,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"THA","2244",151755602.358116,1922,1981,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"THA","2246",305170126.178464,1922,1981,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"THA","2395",127879387.587106,1922,1981,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"TLS","2248",381951.934995181,1922,NA,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"URY","2330",1486796.52946905,1922,1995,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"VEN","NE3048",125375.20603751,1922,2007,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"USA","2326",20573081.5494169,1922,1977,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"VNM","2249",24677462.0700881,1922,1998,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"USA","2326",20573081.5494169,1922,1977,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"USA","2409",20786606.0076361,1922,1977,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"VNM","2249",24677462.0700881,1922,1998,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"BLZ","2275",814439.261086367,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"BOL","2277",43592592.6645649,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"BRA","2380",386133.56,1922,1984,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"BOL","2277",43592592.6645649,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"BTN","2214",310401.710257792,1922,NA,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"CHL","2289",7067815.98882335,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2014,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2014,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"BRN","2215",669205.043132053,1922,NA,1977
+"Aedes","Aedes aegypti",2014,"Damage",NA,"FRA","2264",3556330.42963262,1922,2008,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"IDN","2226",340035077.600131,1922,2011,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"IND","2220",87404622.3516994,1922,2003,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"GTM","2307",38016876.2719143,1922,1995,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"IDN","2226",340035077.600131,1922,2011,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"IND","2220",87404622.3516994,1922,2003,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"IND","2221",4774381.86400333,1922,2003,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"KHM","2216",17403539.9581826,1922,2001,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"LAO","2230",5358901.39099299,1922,NA,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"MMR","2235",15231780.1955654,1922,NA,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"PHL","2237",85049016.4014476,1922,2013,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"SGP","2238",41736084.3857785,1922,1977,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"SGP","2239",70592714.376933,1922,1977,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"THA","2246",305170126.178464,1922,1981,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"TLS","2248",381951.934995181,1922,NA,1977
+"Aedes","Aedes aegypti",1990,"Damage",NA,"USA","2256",12194.2263537216,1922,1977,1977
+"Aedes","Aedes aegypti",2017,"Damage",NA,"BRA","NE4535",126158445.853076,1922,1984,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"BRA","2381",1418928.77,1922,1984,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"BRN","2215",669205.043132053,1922,NA,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"BTN","2214",310401.710257792,1922,NA,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"IDN","2226",340035077.600131,1922,2011,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"IND","2224",567406043.43654,1922,2003,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"IND","2363",571547693.388632,1922,2003,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"KHM","2216",17403539.9581826,1922,2001,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"LAO","2230",5358901.39099299,1922,NA,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"MMR","2235",15231780.1955654,1922,NA,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"MYS","2232",134654366.328205,1922,2002,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"MYS","2371",59605352.511881,1922,2002,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"PHL","2236",71358810.7604102,1922,2013,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"PHL","2237",85049016.4014476,1922,2013,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"PHL","2368",2348992.53008418,1922,2013,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"SGP","2238",41736084.3857785,1922,1977,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"SGP","2239",70592714.376933,1922,1977,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"THA","2246",305170126.178464,1922,1981,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1967,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1968,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1969,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1970,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1971,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1972,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1973,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1974,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1975,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1976,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1977,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1978,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1979,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1980,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1981,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2009,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1983,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"SUR","2328",1461965.26330133,1922,NA,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"THA","2241",1290.95912598685,1922,1981,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"URY","2330",1486796.52946905,1922,1995,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"VEN","NE3047",57507.8726981709,1922,2007,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"VEN","NE3054",134861.406918361,1922,2007,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"BLZ","2275",814439.261086367,1922,1995,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"BOL","2277",43592592.6645649,1922,1995,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"BRA","2380",386133.56,1922,1984,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1995,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1996,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1997,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1998,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1999,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2000,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2001,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2002,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2003,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2004,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2005,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2006,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2007,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2008,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2009,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2010,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2011,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",2012,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"THA","2244",151755602.358116,1922,1981,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"BRA","2380",386133.56,1922,1984,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"CAN","2285",693753.521315354,1922,NA,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"BTN","2214",310401.710257792,1922,NA,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"ECU","2303",65747113.8342653,1922,1995,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"FRA","2265",2218846.14329975,1922,2008,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1922,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1923,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1924,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1925,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1926,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1927,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1928,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1929,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1930,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1931,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1932,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1933,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1934,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"USA","2326",20573081.5494169,1922,1977,1977
+"Aedes","Aedes aegypti",1981,"Damage",NA,"CUB","2413",110529589.405188,1922,1981,1977
+"Aedes","Aedes aegypti",2017,"Damage",NA,"BRA","NE4534",109384525.980724,1922,1984,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"HND","2309",19972885.8812854,1922,1995,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"IND","2224",567406043.43654,1922,2003,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"NIC","2314",15750763.015023,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",1997,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"PAN","2319",9651580.71690245,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"SLV","2305",17638005.5828938,1922,1995,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"SGP","2239",70592714.376933,1922,1977,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"SUR","2328",1461965.26330133,1922,NA,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"THA","2244",151755602.358116,1922,1981,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"THA","2246",305170126.178464,1922,1981,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"THA","2395",127879387.587106,1922,1981,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"IDN","2226",340035077.600131,1922,2011,1977
+"Aedes","Aedes aegypti",2003,"Damage",NA,"URY","2330",1486796.52946905,1922,1995,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"IND","2363",571547693.388632,1922,2003,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"KHM","2216",17403539.9581826,1922,2001,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"PRY","2321",2522877.38073318,1922,1995,1977
+"Aedes","Aedes aegypti",2000,"Damage",NA,"SGP","2238",41736084.3857785,1922,1977,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"MYS","2232",134654366.328205,1922,2002,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2010,"Damage",NA,"COL","2292",1075580347.65367,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2010,"Damage",NA,"COL","2415",18416183.4495994,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2010,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"BRA","2284",956987710.380959,1922,1984,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"COL","2294",208002021.764501,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"CRI","2296",12400317.5618373,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"HND","2309",19972885.8812854,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"MEX","2311",321737991.353806,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"NIC","2314",15750763.015023,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"PAN","2319",9651580.71690245,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"SLV","2305",17638005.5828938,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"USA","2331",6355211.07368289,1922,1977,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"VEN","2262",234164.885941053,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2001,"Damage",NA,"VEN","2333",127897460.612803,1922,2007,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"IND","2220",87404622.3516994,1922,2003,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"IND","2221",4774381.86400333,1922,2003,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"KHM","2216",17403539.9581826,1922,2001,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"LAO","2230",5358901.39099299,1922,NA,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"MMR","2235",15231780.1955654,1922,NA,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"MYS","2231",149507371.21207,1922,2002,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"MYS","2232",134654366.328205,1922,2002,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"PER","2324",132916340.065661,1922,1995,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"PHL","2237",85049016.4014476,1922,2013,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"PRY","2321",2522877.38073318,1922,1995,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"SGP","2238",41736084.3857785,1922,1977,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"SGP","2239",70592714.376933,1922,1977,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"SUR","2328",1461965.26330133,1922,NA,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"THA","2244",151755602.358116,1922,1981,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"THA","2246",305170126.178464,1922,1981,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"THA","2395",127879387.587106,1922,1981,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"TLS","2248",381951.934995181,1922,NA,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"URY","2330",1486796.52946905,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"ARG","2270",17208457.6961482,1922,1995,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"USA","2409",20786606.0076361,1922,1977,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"USA","2409",20786606.0076361,1922,1977,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"BLZ","2275",814439.261086367,1922,1995,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2002,"Damage",NA,"BRN","2215",669205.043132053,1922,NA,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"HND","2309",19972885.8812854,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"MEX","2311",321737991.353806,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"NIC","2314",15750763.015023,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"PAN","2319",9651580.71690245,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"SLV","2305",17638005.5828938,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"USA","2331",6355211.07368289,1922,1977,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"VEN","2333",127897460.612803,1922,2007,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"VNM","2249",24677462.0700881,1922,1998,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"ARG","2270",17208457.6961482,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"BRA","2284",956987710.380959,1922,1984,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"COL","2294",208002021.764501,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"CRI","2296",12400317.5618373,1922,1995,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1935,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1936,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",1981,"Damage",NA,"CUB","2414",51221029.2365505,1922,1981,1977
+"Aedes","Aedes aegypti",1981,"Damage",NA,"THA","2243",19170339.3416929,1922,1981,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"VNM","2249",24677462.0700881,1922,1998,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1942,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1944,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1945,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"BLZ","2275",814439.261086367,1922,1995,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"BOL","2277",43592592.6645649,1922,1995,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"BRA","2380",386133.56,1922,1984,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"BRN","2215",669205.043132053,1922,NA,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"BTN","2214",310401.710257792,1922,NA,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"CAN","2285",693753.521315354,1922,NA,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"CHL","2289",7067815.98882335,1922,1995,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"ECU","2303",65747113.8342653,1922,1995,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"FRA","2265",2218846.14329975,1922,2008,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"GTM","2307",38016876.2719143,1922,1995,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"IDN","2226",340035077.600131,1922,2011,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"IND","2219",3282987.26799224,1922,2003,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"IND","2220",87404622.3516994,1922,2003,1977
+"Aedes","Aedes aegypti",2006,"Damage",NA,"IND","2221",4774381.86400333,1922,2003,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"USA","2326",20573081.5494169,1922,1977,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"USA","2409",20786606.0076361,1922,1977,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"IND","2225",15368561.023653,1922,2003,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"IND","2363",571547693.388632,1922,2003,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"KHM","2216",17403539.9581826,1922,2001,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"BRA","2376",9363890.33558606,1922,1984,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"USA","2331",6355211.07368289,1922,1977,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"BRN","2215",669205.043132053,1922,NA,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"BTN","2214",310401.710257792,1922,NA,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"PER","2324",132916340.065661,1922,1995,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"IND","2224",567406043.43654,1922,2003,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"PRY","2321",2522877.38073318,1922,1995,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"SGP","2238",41736084.3857785,1922,1977,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"SGP","2239",70592714.376933,1922,1977,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"LAO","2230",5358901.39099299,1922,NA,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"MMR","2235",15231780.1955654,1922,NA,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"PHL","2236",71358810.7604102,1922,2013,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"PHL","2237",85049016.4014476,1922,2013,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"PHL","2368",2348992.53008418,1922,2013,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"SGP","2239",70592714.376933,1922,1977,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"THA","2246",305170126.178464,1922,1981,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"TLS","2248",381951.934995181,1922,NA,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"USA","2326",20573081.5494169,1922,1977,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2011,"Damage",NA,"COL","2292",1075580347.65367,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2011,"Damage",NA,"DOM","2301",1556113.0157413,1922,NA,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2011,"Damage",NA,"DOM","2405",1495088.97590831,1922,NA,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"BTN","2214",310401.710257792,1922,NA,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"CAN","2285",693753.521315354,1922,NA,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"CHL","2289",7067815.98882335,1922,1995,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"ECU","2303",65747113.8342653,1922,1995,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"FRA","2265",2218846.14329975,1922,2008,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"GTM","2307",38016876.2719143,1922,1995,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"IDN","2226",340035077.600131,1922,2011,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"IND","2220",87404622.3516994,1922,2003,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"IND","2221",4774381.86400333,1922,2003,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"IND","2224",567406043.43654,1922,2003,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"VNM","2401",2876847.59212677,1922,1998,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"MEX","2311",321737991.353806,1922,1995,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"KHM","2396",3684700.21688287,1922,2001,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"KHM","2397",4569258.89248572,1922,2001,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"LAO","2230",5358901.39099299,1922,NA,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"MMR","2235",15231780.1955654,1922,NA,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"MYS","2231",149507371.21207,1922,2002,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"MYS","2232",134654366.328205,1922,2002,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"MEX","2311",321737991.353806,1922,1995,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"PHL","2237",85049016.4014476,1922,2013,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1938,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2008,"Damage",NA,"USA","2409",20786606.0076361,1922,1977,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"TLS","2248",381951.934995181,1922,NA,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"SUR","2328",1461965.26330133,1922,NA,1977
+"Aedes","Aedes aegypti",2004,"Damage",NA,"VNM","2249",24677462.0700881,1922,1998,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"TLS","2248",381951.934995181,1922,NA,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"URY","2330",1486796.52946905,1922,1995,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"USA","2326",20573081.5494169,1922,1977,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"MEX","2311",321737991.353806,1922,1995,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"VNM","2249",24677462.0700881,1922,1998,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"VNM","2251",66833155.4225999,1922,1998,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"VEN","2333",127897460.612803,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"ARG","2270",17208457.6961482,1922,1995,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"CHL","2289",7067815.98882335,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"COL","2294",208002021.764501,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"CRI","2296",12400317.5618373,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"VEN","2333",127897460.612803,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"ARG","2270",17208457.6961482,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"BRA","2284",956987710.380959,1922,1984,1977
+"Aedes","Aedes aegypti",2009,"Damage",NA,"TLS","2248",381951.934995181,1922,NA,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"CRI","2296",12400317.5618373,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"ARG","2270",17208457.6961482,1922,1995,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"VNM","2402",2615315.99284252,1922,1998,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"CRI","2296",12400317.5618373,1922,1995,1977
+"Aedes","Aedes aegypti",2012,"Damage",NA,"BRA","2381",1418928.77,1922,1984,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"BRA","2381",1418928.77,1922,1984,1977
+"Aedes","Aedes aegypti",2012,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"PRY","2321",2522877.38073318,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"HND","2309",19972885.8812854,1922,1995,1977
+"Aedes","Aedes aegypti",2012,"Damage",NA,"PHL","2236",71358810.7604102,1922,2013,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1937,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2013,"Damage",NA,"BRA","2381",1418928.77,1922,1984,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1941,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"USA","2331",6355211.07368289,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1943,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"VNM","2249",24677462.0700881,1922,1998,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1946,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1947,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1948,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1949,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1950,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"CUB","2411",3032419.95232939,1922,1981,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"CUB","2412",1479573.05417511,1922,1981,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"HND","2309",19972885.8812854,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"MEX","2311",321737991.353806,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"NIC","2314",15750763.015023,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"PAN","2319",9651580.71690245,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"SLV","2305",17638005.5828938,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"USA","2331",6355211.07368289,1922,1977,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"IND","2224",567406043.43654,1922,2003,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"IND","2363",571547693.388632,1922,2003,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"GTM","2307",38016876.2719143,1922,1995,1977
+"Aedes","Aedes aegypti",2001,"Damage",NA,"IDN","2226",340035077.600131,1922,2011,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"PER","2403",1716301.1203029,1922,1995,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"PHL","2236",71358810.7604102,1922,2013,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"PHL","2368",2348992.53008418,1922,2013,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2014,"Damage",NA,"COL","NE3070",2223141.21017873,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"BRA","2284",956987710.380959,1922,1984,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"COL","2294",208002021.764501,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2015,"Damage",NA,"MDV","2385",1237246.9839769,1922,2015,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"HND","2309",19972885.8812854,1922,1995,1977
+"Aedes","Aedes aegypti",2012,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"NIC","2314",15750763.015023,1922,1995,1977
+"Aedes","Aedes aegypti",2012,"Damage",NA,"IND","2224",567406043.43654,1922,2003,1977
+"Aedes","Aedes aegypti",2012,"Damage",NA,"IND","2363",571547693.388632,1922,2003,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"SGP","2238",41736084.3857785,1922,1977,1977
+"Aedes","Aedes aegypti",2012,"Damage",NA,"PHL","2368",2348992.53008418,1922,2013,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"SGP","2240",16211264.1480659,1922,1977,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"SUR","2328",1461965.26330133,1922,NA,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"THA","2244",151755602.358116,1922,1981,1977
+"Aedes","Aedes aegypti",2013,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2013,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1982,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1984,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1985,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1986,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1987,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"USA","2409",20786606.0076361,1922,1977,1977
+"Aedes","Aedes aegypti",2010,"Damage",NA,"VNM","2249",24677462.0700881,1922,1998,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"BRA","2370",130833.307066554,1922,1984,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"BRA","2381",1418928.77,1922,1984,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"CHN","2394",489020.414020624,1922,NA,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"IDN","2227",1766073.85279169,1922,2011,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"IDN","2399",3236453.54114262,1922,2011,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2012,"Damage",NA,"COL","2415",18416183.4495994,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2013,"Damage",NA,"BRA","2280",483998890.374956,1922,1984,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2007,"Damage",NA,"COL","2294",208002021.764501,1922,1995,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"PER","2325",2108598.51922928,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2015,"Damage",NA,"COL","2377",51761313.6295693,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2015,"Damage",NA,"COL","2378",3885984.50672442,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2015,"Damage",NA,"COL","2379",63186108.0793391,1922,1995,1977
+"Aedes","Aedes aegypti",2013,"Damage",NA,"FRA","2417",5951553.04809661,1922,2008,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"MEX","2311",321737991.353806,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"PAN","2319",9651580.71690245,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"SLV","2305",17638005.5828938,1922,1995,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"SGP","2239",70592714.376933,1922,1977,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"VEN","2262",234164.885941053,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"VEN","2333",127897460.612803,1922,2007,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1939,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1940,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2013,"Damage",NA,"FRA","2416",9285930.7689397,1922,2008,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"BRN","2215",669205.043132053,1922,NA,1977
+"Aedes","Aedes aegypti",2013,"Damage",NA,"PER","2323",230687.554170826,1922,1995,1977
+"Aedes","Aedes aegypti",2013,"Damage",NA,"PHL","2368",2348992.53008418,1922,2013,1977
+"Aedes","Aedes albopictus",2011,"Damage",NA,"GRC","SC758",180360.724755293,1922,2010,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"NIC","2314",15750763.015023,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"PAN","2319",9651580.71690245,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"SLV","2305",17638005.5828938,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"VEN","2262",234164.885941053,1922,2007,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"PAN","2319",9651580.71690245,1922,1995,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"BTN","2214",310401.710257792,1922,NA,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2004,"Damage",NA,"BRA","2284",956987710.380959,1922,1984,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"USA","2409",20786606.0076361,1922,1977,1977
+"Aedes","Aedes albopictus",2006,"Damage",NA,"FRA","2258",66501896.1480606,1922,2008,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2002,"Damage",NA,"USA","2331",6355211.07368289,1922,1977,1977
+"Aedes","Aedes aegypti",2011,"Damage",NA,"MEX","2392",24128263.7787661,1922,1995,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"BRA","2380",386133.56,1922,1984,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"URY","2330",1486796.52946905,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2015,"Damage",NA,"MDV","2387",1216724.60367647,1922,2015,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2012,"Damage",NA,"COL","2292",1075580347.65367,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"ARG","2270",17208457.6961482,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"BRA","2284",956987710.380959,1922,1984,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1989,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1992,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1993,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1994,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"THA","2246",305170126.178464,1922,1981,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"BRA","2393",10675000,1922,1984,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"USA","2326",20573081.5494169,1922,1977,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"COL","2294",208002021.764501,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"CRI","2296",12400317.5618373,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"HND","2309",19972885.8812854,1922,1995,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1988,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2006,"Damage",NA,"CRI","2296",12400317.5618373,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2014,"Damage",NA,"COL","2290",76206359.1184842,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"USA","2331",6355211.07368289,1922,1977,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"BOL","2277",43592592.6645649,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2003,"Damage",NA,"BRA","2284",956987710.380959,1922,1984,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"PAN","2317",14845701.7150182,1922,1995,1977
+"Aedes","Aedes albopictus",2010,"Damage",NA,"GRC","SC1071",1365716.33638521,1922,2010,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"SLV","2305",17638005.5828938,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"VEN","2333",127897460.612803,1922,2007,1977
+"Aedes","Aedes albopictus",2007,"Damage",NA,"ITA","2375",16481660.4347903,1922,2008,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1990,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977
+"Aedes","Aedes albopictus",2012,"Damage",NA,"GRC","SC680",97422.7925319595,1922,2010,1977
+"Aedes","Aedes aegypti",2005,"Damage",NA,"THA","2395",127879387.587106,1922,1981,1977
+"Aedes","Aedes albopictus",2013,"Damage",NA,"GRC","SC689",107340.146645461,1922,2010,1977
+"Aedes","Aedes aegypti",2007,"Damage",NA,"THA","2246",305170126.178464,1922,1981,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"NIC","2315",14412900.9297939,1922,1995,1977
+"Aedes","Aedes aegypti/Aedes albopictus",2005,"Damage",NA,"NIC","2314",15750763.015023,1922,1995,1977
+"Aedes","Aedes albopictus/Aedes japonicus",1991,"Damage",NA,"USA","1212",9489.97592085195,1922,1977,1977

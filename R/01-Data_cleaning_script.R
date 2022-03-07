@@ -42,12 +42,11 @@ invacost_cln$Cost.USD[which(is.na(invacost_cln$Cost.USD)&invacost_cln$Official_c
 # Only examine damage costs and post-invasion management
 sub_postinv<-subset(invacost_cln, Management_type%in%c(NA, "Post-invasion management"))
 sub_postinv<-subset(sub_postinv, Type_of_cost_merged%in%c("Mixed", NA)==F)
-#sub_postinv<-subset(sub_postinv, Genus=="Aedes")
-#length(unique(sub_postinv$Cost_ID))
+
+
 #check first year of damage vs first record in sTwist for each genus in each country
 cost_dm<-subset(sub_postinv, Type_of_cost_merged=="Damage")
 sub_dm<-cost_dm
-#sub_dm<-subset(cost_dm, Genus%in%c("Aedes", "Ambrosia", "Procyon","Callosciurus"))
 sub_dm<-sub_dm%>%group_by(Genus, code)%>%summarise_at(c("Cost.USD", "Impact_year"),.funs=list(sum=sum,min=min))
 
 #check first year of management vs first record in sTwist for each genus in each country
@@ -89,6 +88,8 @@ sub_dm$First_manage_invacost<-NA
 for (i in 1:nrow(sub_dm))
 {
   sub_dm$First_manage_invacost[i]<-min(invacost$Impact_year[which(invacost$Genus==sub_dm$Genus[i]& invacost$Type_of_cost_merged=="Management")], na.rm=T)}
+write.csv(sub_dm, file="data/Damagecosts_aedes_logsitic.csv", row.names=F)
+
 
 ### fill in missing management lags and get yearly time since first record
 sub_clean<-cbind(sub_dm$Genus, sub_dm$code, (sub_dm$Impact_year-sub_dm$First_invacost), sub_dm$Cost.USD, (sub_dm$First_manage-sub_dm$First_invacost))
@@ -98,7 +99,7 @@ sub_clean[which(is.na(sub_clean[,3])),3]<-(sub_dm$Impact_year-sub_dm$First_invac
 #calculate either country-level of global management delay
 sub_clean[which(is.na(sub_clean[,5])),5]<-(sub_dm$First_manage_invacost-sub_dm$eventDate)[which(is.na(sub_clean[,5]))]
 sub_clean[which(is.na(sub_clean[,5])),5]<-(sub_dm$First_manage_invacost-sub_dm$First_invacost)[which(is.na(sub_clean[,5]))]
-write.csv(sub_clean, file="filled_aedes_logistic.csv", row.names=F)
+write.csv(sub_clean, file="data/filled_aedes_logistic.csv", row.names=F)
 
 #### Create cumulative cost dataframe based on yearly cost data ##
 sub_clean<-sub_clean[order(sub_clean[,3]),]
@@ -110,7 +111,7 @@ new2<-sub_clean%>%group_by(Genus)%>%distinct_at('Time.since.introduction')
 new2<-new2[order(new2$Genus,new2$Time.since.introduction),]
 new<-new%>%group_by(Genus, Time.since.introduction)%>%summarise_at('Cost.USD',sum, na.rm=T)
 new$Time.since.introduction<-new2$Time.since.introduction
-write.csv(new, file="annual_aedes_logistic.csv", row.names=F)
+write.csv(new, file="data/annual_aedes_logistic.csv", row.names=F)
 
 
 
@@ -126,7 +127,7 @@ sub_mg$First_manage_invacost<-NA
 for (i in 1:nrow(sub_mg))
 {
   sub_mg$First_manage_invacost[i]<-min(invacost$Impact_year[which(invacost$Genus==sub_mg$Genus[i]& invacost$Type_of_cost_merged=="Management")], na.rm=T)}
-write.csv(sub_mg, file="Managementcosts_aedes_logsitic.csv", row.names=F)
+write.csv(sub_mg, file="data/Managementcosts_aedes_logsitic.csv", row.names=F)
 
 
 sub_clean<-cbind(sub_mg$Genus, sub_mg$code,(sub_mg$Impact_year-sub_mg$First_invacost), sub_mg$Cost.USD, (sub_mg$First_manage-sub_mg$First_invacost))
@@ -134,7 +135,7 @@ colnames(sub_clean)<-c("Genus", "code", "Time.since.introduction", "Cost.USD", "
 sub_clean[which(is.na(sub_clean[,3])),3]<-(sub_mg$Impact_year-sub_mg$First_invacost)[which(is.na(sub_clean[,3]))]
 sub_clean[which(is.na(sub_clean[,5])),5]<-(sub_mg$First_manage_invacost-sub_mg$eventDate)[which(is.na(sub_clean[,5]))]
 sub_clean[which(is.na(sub_clean[,5])),5]<-(sub_mg$First_manage_invacost-sub_mg$First_invacost)[which(is.na(sub_clean[,5]))]
-write.csv(sub_clean, file="filled_mgmt_aedes_logistic.csv", row.names=F)
+write.csv(sub_clean, file="data/filled_mgmt_aedes_logistic.csv", row.names=F)
 sub_clean<-sub_clean[order(sub_clean[,3]),]
 sub_clean<-data.frame(sub_clean)
 sub_clean$Cost.USD<-as.numeric(sub_clean$Cost.USD)
@@ -144,12 +145,12 @@ new2<-sub_clean%>%group_by(Genus)%>%distinct_at('Time.since.introduction')
 new2<-new2[order(new2$Genus,new2$Time.since.introduction),]
 new<-new%>%group_by(Genus, Time.since.introduction)%>%summarise_at('Cost.USD',sum)
 new$Time.since.introduction<-new2$Time.since.introduction
-write.csv(new, file="annual_mgmt_aedes_logistic.csv", row.names=F)
+write.csv(new, file="data/annual_mgmt_aedes_logistic.csv", row.names=F)
 
 
 
 
-pdf(paste0("map_damage.pdf"))
+pdf(paste0("plots/map_damage.pdf"))
 layout(matrix(c(1,1,2), ncol=1, byrow=TRUE), heights=c(3,1))
 my_palette <- colorRampPalette(c("yellow1", "violetred2", "mediumblue"))(50)[50:1]
 bins<-seq(1920,2020,length.out=50)
@@ -166,7 +167,7 @@ axis(1,labels=c(paste(seq(1920,2020, length.out=11))),at=c(seq(1,50,length.out=1
 mtext(side=1, "Year", line=3)
 dev.off()
 
-pdf(paste0("map_management.pdf"))
+pdf(paste0("plots/map_management.pdf"))
 layout(matrix(c(1,1,2), ncol=1, byrow=TRUE), heights=c(3,1))
 my_palette <- colorRampPalette(c("yellow1", "violetred2", "mediumblue"))(50)[50:1]
 bins<-seq(1920,2020,length.out=50)

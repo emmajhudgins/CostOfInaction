@@ -7,13 +7,12 @@ A Github repository to accompany Ahmed, Hudgins, Cuthbert et al. "Managing biolo
 
 ##### the first script was written in R version 4.0.3, while the remainder use MATLAB, and require the following routine: https://au.mathworks.com/matlabcentral/fileexchange/13188-shade-area-between-two-curves
 
+### R Scripts
 
-1. *01-Data_cleaning_script.R* - this script generates the input data required to fit models (*cumulative_logistic.csv* for damage costs and *cumulative_mgmt_logistic.csv* for management costs), based on the invacost R package and (see Data accessibility statement in the main manuscript). It also produces the more generic datasheets based on initial invacost extraction *(Damagecosts_logistic.csv and Managementcosts_logistic.csv)*. Within the script, the number of independent cost references and management lag times for each genus are derived.  
+- *01-Data_cleaning_script.R* - this script generates the input data required to fit models (*filled_aedes_logistic.csv* for damage costs and *filled_mgmt_aedes_logistic.csv* for management costs), based on annual cost files *annual_aedes_logistic.csv* and *annual_mgmt_aedes_logistic.csv*, using the invacost R package and (see Data accessibility statement in the main manuscript). It also produces the more generic datasheets based on initial invacost extraction *(Damagecosts_logistic.csv and Managementcosts_logistic.csv)*. Within the script, the number of independent cost references and management lag times for each genus are derived.  
 
-2. *02-Fig2.m* - this script creates the theoretical results for Figure 2.
+### MATLAB Scripts
 
-3. *03-Fig3.m* - this script creates the theoretical results for Figure 3.
+- *Fig_\*.m* - these scripts generates the results for Figures 2-6, which are plotted in the plots folder. Figures 2-4 are theoretical results, while Figures 5-6 use the R script-derived damage and management data to fit the curves to Aedes spp.
 
-4. *04-.\** - these two folders have 4 MATLAB scripts each, one for each genus, that fit nonlinear models to the data contained in 1. *cumulative_logistic.csv* and 2. *cumulative_mgmt_logistic.csv* in order to parameterize the logistic curves. 
 
-6. *05-Fig6.m* - this script calculates the cost of inaction for the *Aedes* example.
